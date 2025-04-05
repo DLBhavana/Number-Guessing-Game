@@ -1,0 +1,41 @@
+Test Case-1:
+
+Welcome to the Number Guessing Game!
+I have chosen a number between 1 and 100. Try to guess it!
+You have a maximum of 10 attempts.
+Enter your guess: 34
+Too high! Try again.
+Enter your guess: 21
+Too high! Try again.
+Enter your guess: 10
+Too low! Try again.
+Enter your guess: 12
+Congratulations! You've guessed the correct number.
+It took you 4 attempts.
+
+Test Case-2:
+
+Welcome to the Number Guessing Game!
+I have chosen a number between 1 and 100. Try to guess it!
+You have a maximum of 10 attempts.
+Enter your guess: 3 
+Too low! Try again.
+Enter your guess: 67
+Too high! Try again.
+Enter your guess: 45
+Too low! Try again.
+Enter your guess: 56
+Too low! Try again.
+Enter your guess: 58
+Too low! Try again.
+Enter your guess: 67
+Too high! Try again.
+Enter your guess: 34
+Too low! Try again.
+Enter your guess: 59
+Too low! Try again.
+Enter your guess: 60
+Too low! Try again.
+Enter your guess: 65
+Too high! Try again.
+Sorry, you've used all your attempts. The correct number was: 62
